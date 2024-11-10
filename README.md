@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, meow Nawaphon</h1>
-<h3 align="center">A starter.</h3>
+<h3>A starter.</h3>
 
 <img align="center" alt="coding-cat" width="200" src="https://media.tenor.com/GiUbb4qg_vwAAAAM/csharp-cat-programmer.gif">
 
