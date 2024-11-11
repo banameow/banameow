@@ -12,3 +12,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=last_7_days&hide_title=true&layout=compact)
