@@ -14,4 +14,3 @@
 </p>
 
 <!--![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=last_7_days&hide_title=true&layout=compact)-->
-![WakaTime Badge](https://wakatime.com/badge/user/banana_meow.svg)
