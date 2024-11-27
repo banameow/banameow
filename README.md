@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, meow Nawaphon</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3>A starter.</h3>
 
 <img align="right" alt="coding-cat" width="200" src="https://media.tenor.com/GiUbb4qg_vwAAAAM/csharp-cat-programmer.gif">
