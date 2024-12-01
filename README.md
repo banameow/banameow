@@ -33,6 +33,7 @@ Other         5 mins          -------------------------   00.23 %
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=all_time&layout=compact&bg_color=151b23&text_color=ffffff&title_color=ffffff&hide_border=true&custom_title=Coding%20Time%20(Last%207%20Days))
 
+<hr>
 
 <h3 align="left">🌐 Connect With Me</h3>
 📫 **How to reach me:** [Email me](mailto:nawaphonkit@gmail.com)
