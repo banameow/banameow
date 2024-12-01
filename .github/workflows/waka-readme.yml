@@ -1,0 +1,31 @@
+name: Waka Readme
+
+on:
+  # for manual workflow trigger
+  workflow_dispatch:
+  schedule:
+    # runs at 12 AM UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      # Use waka-readme action
+      - uses: athul/waka-readme@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # GitHub token
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Your WakaTime API key
+          
+          ### Content Settings
+          SHOW_TITLE: true # Show a title above stats
+          SECTION_NAME: Code Stats # Section title in your README
+          BLOCKS: -> # Default block symbol
+          TIME_RANGE: all_time # Show all-time stats
+          LANG_COUNT: 10 # Show top 10 languages
+          SHOW_TIME: true # Show time spent
+          SHOW_TOTAL: true # Show total coding time
+          SHOW_MASKED_TIME: false # Do not mask time spent
+          STOP_AT_OTHER: true # Stop at "Other" category
+          IGNORED_LANGUAGES: YAML JSON TOML # Ignore specific languages
