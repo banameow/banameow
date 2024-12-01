@@ -17,6 +17,20 @@
 <!--![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=last_7_days&hide_title=true&layout=compact) -->
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 09 November 2024 - To: 30 November 2024
+
+Total Time: 39 hrs 42 mins
+
+C             30 hrs          >>>>>>>>>>>>>>>>>>>------   75.39 %
+JavaScript    6 hrs 13 mins   >>>>---------------------   15.62 %
+TypeScript    3 hrs 12 mins   >>-----------------------   08.07 %
+CSS           7 mins          -------------------------   00.32 %
+Markdown      6 mins          -------------------------   00.29 %
+Other         5 mins          -------------------------   00.23 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
