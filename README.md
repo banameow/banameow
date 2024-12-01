@@ -9,12 +9,11 @@
 
 - 🤝 I’m looking for help with **money**
 
-- 📫 How to reach me **nawaphonkit@gmail.com**
-
 - ⚡ Fun fact **I am meow!**
 
+<hr>
 
-
+### 📊 My Coding Stats
 <!--START_SECTION:waka-->
 
 ```txt
@@ -35,6 +34,8 @@ Other         5 mins          -------------------------   00.23 %
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=all_time&layout=compact&bg_color=151b23&text_color=ffffff&title_color=ffffff&hide_border=true&custom_title=Coding%20Time%20(Last%207%20Days))
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="left">🌐 Connect With Me</h3>
+📫 **How to reach me:** [Email me](mailto:nawaphonkit@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nawaphon-kittisongkhram-22ba5433a)
+
+- [🔗 **My Portfolio**](https://your-portfolio-link)
