@@ -36,9 +36,8 @@ Other         5 mins          -------------------------   00.23 %
 <hr>
 
 <h3 align="left">🌐 Connect With Me</h3>
-<p>
-  📫 **How to reach me:** [Email me](mailto:nawaphonkit@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nawaphon-kittisongkhram-22ba5433a)
-</p>
-
+### 🌐 Connect With Me
+- 📫 **How to reach me:** [Email me](mailto:nawaphonkit@gmail.com)  
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nawaphon-kittisongkhram-22ba543a)  
 - [🔗 **My Portfolio**](https://your-portfolio-link)
+
