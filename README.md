@@ -17,9 +17,6 @@
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=all_time&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=151515&hide_border=true)
 
-### All Time
-![All Time WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=all_time&layout=compact&text_color=ff6e96&bg_color=151515&hide_border=true)
-
 
 <!--START_SECTION:waka-->
 
