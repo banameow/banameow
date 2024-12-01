@@ -15,9 +15,6 @@
 
 
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=all_time&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=151515&hide_border=true)
-
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -34,6 +31,9 @@ Other         5 mins          -------------------------   00.23 %
 ```
 
 <!--END_SECTION:waka-->
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=all_time&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=272727&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
