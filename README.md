@@ -14,8 +14,8 @@
 - ⚡ Fun fact **I am meow!**
 
 
-### Last 7 Days
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=last_7_days&layout=compact&title_color=ff6e96&bg_color=0d1117)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=all_time&layout=compact&title_color=ff6e96&bg_color=ffffff&hide_border=true)
 
 ### All Time
 ![All Time WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=all_time&layout=compact&text_color=ff6e96&bg_color=151515&hide_border=true)
