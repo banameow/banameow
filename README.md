@@ -32,8 +32,7 @@ Other         5 mins          -------------------------   00.23 %
 
 <!--END_SECTION:waka-->
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=all_time&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=212121&hide_border=true)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=all_time&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=212121&hide_border=true&custom_title=Coding%20Time)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=all_time&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=212121&hide_border=true&custom_title=Coding%20Time%20(Last%207%20Days))
 
 
 <h3 align="left">Connect with me:</h3>
