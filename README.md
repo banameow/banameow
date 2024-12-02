@@ -40,6 +40,7 @@ Other         5 mins          -------------------------   00.23 %
 <h3 align="left">🌐 Connect With Me: </h3>  
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg)](https://www.linkedin.com/in/nawaphon-kittisongkhram-22ba5433a/)
+<br>
 [![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/facebook.svg)](https://www.facebook.com/nawaphon.kittisongkhram.7)
 
 
