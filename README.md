@@ -43,7 +43,7 @@ Other         5 mins          -------------------------   00.23 %
 &nbsp;
 [![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/facebook.svg)](https://www.facebook.com/nawaphon.kittisongkhram.7)
 
-
+[![My Resume](assets/resume.png)](https://github.com/banameow/banameow/raw/main/assets/Resume.pdf)
 - [🔗 **My Portfolio**](https://your-portfolio-link)
 
 
