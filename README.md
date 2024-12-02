@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **money**
 
-- ✉️ [Email me] : (nawaphonkit@gmail.com) 
+- ✉️ Email me : nawaphonkit@gmail.com
 
 - ⚡ Fun fact **I am meow!**
 
