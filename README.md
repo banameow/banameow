@@ -43,7 +43,7 @@ Other         5 mins          -------------------------   00.23 %
   
 - [🔗 **My Portfolio**](https://your-portfolio-link)
 
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg)](https://linkedin.com/in/nawaphon-kittisongkhram-22ba543a)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg)](https://linkedin.com/in/nawaphon-kittisongkhram)
 
 
 
