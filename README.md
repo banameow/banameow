@@ -9,6 +9,8 @@
 
 - 🤝 I’m looking for help with **money**
 
+- ✉️ [Email me] : (nawaphonkit@gmail.com) 
+
 - ⚡ Fun fact **I am meow!**
 
 <hr>
@@ -35,16 +37,12 @@ Other         5 mins          -------------------------   00.23 %
 
 <hr>
 
-<h3 align="left">🌐 Connect With Me</h3>
-
-- [Email me](mailto:nawaphonkit@gmail.com)  
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/nawaphon-kittisongkhram-22ba543a)
-  
-- [🔗 **My Portfolio**](https://your-portfolio-link)
+<h3 align="left">🌐 Connect With Me: </h3>  
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg)](https://www.linkedin.com/in/nawaphon-kittisongkhram-22ba5433a/)
+[![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/facebook.svg)](https://www.facebook.com/nawaphon.kittisongkhram.7)
 
 
+- [🔗 **My Portfolio**](https://your-portfolio-link)
 
 
