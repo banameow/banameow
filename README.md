@@ -43,3 +43,8 @@ Other         5 mins          -------------------------   00.23 %
   
 - [🔗 **My Portfolio**](https://your-portfolio-link)
 
+[![Email](https://raw.githubusercontent.com/user/repo/main/icons/email.svg)](mailto:nawaphonkit@gmail.com)
+[![LinkedIn](https://raw.githubusercontent.com/user/repo/main/icons/linkedin.svg)](https://linkedin.com/in/nawaphon-kittisongkhram-22ba543a)
+
+
+
