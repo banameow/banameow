@@ -19,17 +19,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 17 January 2025
+From: 09 November 2024 - To: 18 January 2025
 
-Total Time: 58 hrs 33 mins
+Total Time: 58 hrs 55 mins
 
-C             37 hrs 8 mins   >>>>>>>>>>>>>>>>---------   63.34 %
-JavaScript    12 hrs 19 mins  >>>>>--------------------   21.00 %
-Java          4 hrs 7 mins    >>-----------------------   07.04 %
-TypeScript    3 hrs 12 mins   >------------------------   05.48 %
-Python        1 hr 24 mins    >------------------------   02.40 %
+C             37 hrs 8 mins   >>>>>>>>>>>>>>>>---------   62.94 %
+JavaScript    12 hrs 19 mins  >>>>>--------------------   20.87 %
+Java          4 hrs 29 mins   >>-----------------------   07.62 %
+TypeScript    3 hrs 12 mins   >------------------------   05.44 %
+Python        1 hr 24 mins    >------------------------   02.38 %
 CSS           7 mins          -------------------------   00.22 %
-Markdown      6 mins          -------------------------   00.19 %
+Markdown      6 mins          -------------------------   00.20 %
 Other         5 mins          -------------------------   00.16 %
 ```
 
