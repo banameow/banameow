@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 10 April 2025
+From: 09 November 2024 - To: 11 April 2025
 
 Total Time: 158 hrs 28 mins
 
-Java          84 hrs 8 mins   >>>>>>>>>>>--------------   45.06 %
-C             37 hrs 13 mins  >>>>>--------------------   19.93 %
-Other         28 hrs 16 mins  >>>>---------------------   15.14 %
+Java          84 hrs 8 mins   >>>>>>>>>>>--------------   44.56 %
+C             37 hrs 13 mins  >>>>>--------------------   19.71 %
+Other         30 hrs 21 mins  >>>>---------------------   16.08 %
 ```
 
 <!--END_SECTION:waka-->
