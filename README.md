@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,</h1>
 <h3>A starter.</h3>
 <p>
-  &nbsp;&nbsp;A current first year IT student with a keen interest in software development and artificial intelligence who is curious and hardworking.
+  &nbsp;&nbsp;A current second year IT student with a keen interest in software development and artificial intelligence who is curious and hardworking.
   My passion for continuous learning is how using technology to create positive impact
 </p>
 <hr>
