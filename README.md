@@ -39,6 +39,6 @@ Other                              125 hrs 13 mins >>>>>>-------------------   2
 &nbsp;
 [![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/facebook.svg)](https://www.facebook.com/nawaphon.kittisongkhram.7)
 
-📄My resume: [view my resume](https://github.com/banameow/banameow/blob/main/assets/resume.pdf)
+📄My resume: [view my resume](https://github.com/banameow/banameow/blob/main/assets/Resume.pdf)
 
 
