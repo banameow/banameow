@@ -29,7 +29,7 @@ Other                              125 hrs 25 mins >>>>>>-------------------   2
 
 <!--END_SECTION:waka-->
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=all_time&layout=compact&bg_color=151b23&text_color=ffffff&title_color=ffffff&hide_border=true&custom_title=Coding%20Time%20(Last%207%20Days))
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=banana_meow&range=last_7_days&layout=compact&bg_color=151b23&text_color=ffffff&title_color=ffffff&hide_border=true&custom_title=Coding%20Time%20(Last%207%20Days))
 
 <hr>
 
