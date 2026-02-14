@@ -35,9 +35,9 @@ Other                              125 hrs 27 mins >>>>>>-------------------   2
 
 <h3 align="left">🌐 Connect With Me: </h3>  
 
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg)](https://www.linkedin.com/in/nawaphon-kittisongkhram-22ba5433a/)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/linkedin.svg)](https://www.linkedin.com/in/nawaphon-kittisongkhram-22ba5433a/)
 &nbsp;
-[![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/facebook.svg)](https://www.facebook.com/nawaphon.kittisongkhram.7)
+[![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/dark/facebook.svg)](https://www.facebook.com/nawaphon.kittisongkhram.7)
 
 📄My resume: [view my resume](https://github.com/banameow/banameow/blob/main/assets/Resume.pdf)
 
