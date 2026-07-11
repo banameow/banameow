@@ -19,13 +19,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 08 July 2026
+From: 09 November 2024 - To: 09 July 2026
 
-Total Time: 673 hrs 29 mins
+Total Time: 679 hrs 28 mins
 
-Python                             141 hrs 8 mins        >>>>---------------------   17.64 %
-Java                               134 hrs 59 mins       >>>>---------------------   16.87 %
-Other                              126 hrs 46 mins       >>>>---------------------   15.84 %
+Python                             141 hrs 8 mins        >>>>---------------------   17.51 %
+Java                               134 hrs 59 mins       >>>>---------------------   16.74 %
+Other                              126 hrs 46 mins       >>>>---------------------   15.72 %
 ```
 
 <!--END_SECTION:waka-->
